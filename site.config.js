@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "gun_bbangg_graphics",
+    description: "welcome to graphics world!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
